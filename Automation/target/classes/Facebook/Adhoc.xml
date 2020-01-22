@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Adhoc">
+<parameter name= "Nayyer" value="https://www.apple.com"></parameter>
+<parameter name= "Saad" value= "Firefox"></parameter>
+<test name="frontend">
+<classes>
+<class name="Selenium.Automation.Facebooktestng"></class>
+
+</classes>
+
+
+</test>
+
+
+
+
+</suite>
